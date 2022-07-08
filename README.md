@@ -8,3 +8,6 @@ Devido ao meu interesse crescente em Javascript, decidi criar esse repositório 
 ## Dia 07/07
 * Adicionada a pasta 'lessons', [Aulas Originais!](https://www.youtube.com/watch?v=i6Oi-YtXnAU );
 * Adicionadas as subpastas 'study', da aula 1 até a 5.
+
+## Dia 08/07
+* Adicionado: /study6.
