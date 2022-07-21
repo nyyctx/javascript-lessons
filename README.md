@@ -11,3 +11,7 @@ Devido ao meu interesse crescente em Javascript, decidi criar esse repositório 
 
 ## Dia 08/07
 * Adicionado: /study6.
+
+## Dia 21/07
+* Pequeno projeto adicionado em /study7;
+* Adicionado: /study8.
